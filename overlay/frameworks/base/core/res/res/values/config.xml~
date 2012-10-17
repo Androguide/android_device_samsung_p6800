@@ -80,7 +80,7 @@
     <!--Boolean to enable stk functionality on Samsung phones-->
     <bool name="config_samsung_stk">true</bool>
 
-<!--If true, the screen will fade // If false CRT-off animation is on-->
+<!--If this is true, the screen will fade// If false CRT-off animation is on-->
     <bool name="config_animateScreenLights">false</bool>
 
 </resources>
